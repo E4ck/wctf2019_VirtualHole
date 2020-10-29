@@ -1,5 +1,5 @@
-vm escape
+VM Escape
 
 Host OS : Ubuntu 16.04
 
-geust OS : qemu-3.1.0-rc5
+Geust OS : Qemu-3.1.0-rc5
